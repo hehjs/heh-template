@@ -1,0 +1,22 @@
+{
+  "name": "heh-template",
+  "description": "sao template for heh",
+  "version": "0.0.1",
+  "author": "Nick Baugh <niftylettuce@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/hehjs/heh-template/issues"
+  },
+  "homepage": "https://github.com/hehjs/heh-template#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hehjs/heh-template.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "heh": "latest"
+  }
+}
